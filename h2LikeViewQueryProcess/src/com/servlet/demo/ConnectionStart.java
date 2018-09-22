@@ -1,4 +1,4 @@
-package com.niit.servlet.demo;
+package com.servlet.demo;
 
 import java.sql.*;
 import java.util.ArrayList;

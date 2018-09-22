@@ -1,4 +1,4 @@
-package com.niit.servlet.demo;
+package com.servlet.demo;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.ResultSet;
