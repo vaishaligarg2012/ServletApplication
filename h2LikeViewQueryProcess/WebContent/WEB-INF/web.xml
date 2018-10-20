@@ -7,7 +7,7 @@
   
   <servlet>
   <servlet-name>SQLTool</servlet-name>
-  <servlet-class>com.niit.servlet.demo.SQLTool</servlet-class>
+  <servlet-class>com.servlet.demo.SQLTool</servlet-class>
   </servlet>
   <servlet-mapping>
   <servlet-name>SQLTool</servlet-name>
